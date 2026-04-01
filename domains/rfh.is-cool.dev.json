@@ -1,0 +1,18 @@
+{
+    "description": "Rice field hub website",
+    "domain": "is-cool.dev",
+    "subdomain": "rfh",
+
+    "owner": {
+        "email": "ahmadsan4p@gmail.com"
+    },
+
+    "record": {
+        "NS": [
+            "aarav.ns.cloudflare.com",
+            "khloe.ns.cloudflare.com"
+        ]
+    },
+
+    "proxied": false
+}
